@@ -1,0 +1,20 @@
+G:\Programming\Borwell Software Challenge\Borwell Software Challenge\bin\Debug\Borwell Software Challenge.exe.config
+G:\Programming\Borwell Software Challenge\Borwell Software Challenge\bin\Debug\Borwell Software Challenge.exe
+G:\Programming\Borwell Software Challenge\Borwell Software Challenge\bin\Debug\Borwell Software Challenge.pdb
+G:\Programming\Borwell Software Challenge\Borwell Software Challenge\bin\Debug\Borwell Software Challenge.xml
+G:\Programming\Borwell Software Challenge\Borwell Software Challenge\obj\Debug\Borwell_Software_Challenge.Form1.resources
+G:\Programming\Borwell Software Challenge\Borwell Software Challenge\obj\Debug\Borwell_Software_Challenge.Resources.resources
+G:\Programming\Borwell Software Challenge\Borwell Software Challenge\obj\Debug\Borwell Software Challenge.vbproj.GenerateResource.Cache
+G:\Programming\Borwell Software Challenge\Borwell Software Challenge\obj\Debug\Borwell Software Challenge.exe
+G:\Programming\Borwell Software Challenge\Borwell Software Challenge\obj\Debug\Borwell Software Challenge.xml
+G:\Programming\Borwell Software Challenge\Borwell Software Challenge\obj\Debug\Borwell Software Challenge.pdb
+D:\Programming\Borwell Software Challenge\Borwell Software Challenge\bin\Debug\Borwell Software Challenge.exe.config
+D:\Programming\Borwell Software Challenge\Borwell Software Challenge\obj\Debug\Borwell Software Challenge.exe
+D:\Programming\Borwell Software Challenge\Borwell Software Challenge\obj\Debug\Borwell Software Challenge.xml
+D:\Programming\Borwell Software Challenge\Borwell Software Challenge\obj\Debug\Borwell Software Challenge.pdb
+D:\Programming\Borwell Software Challenge\Borwell Software Challenge\bin\Debug\Borwell Software Challenge.exe
+D:\Programming\Borwell Software Challenge\Borwell Software Challenge\bin\Debug\Borwell Software Challenge.pdb
+D:\Programming\Borwell Software Challenge\Borwell Software Challenge\bin\Debug\Borwell Software Challenge.xml
+D:\Programming\Borwell Software Challenge\Borwell Software Challenge\obj\Debug\Borwell_Software_Challenge.Form1.resources
+D:\Programming\Borwell Software Challenge\Borwell Software Challenge\obj\Debug\Borwell_Software_Challenge.Resources.resources
+D:\Programming\Borwell Software Challenge\Borwell Software Challenge\obj\Debug\Borwell Software Challenge.vbproj.GenerateResource.Cache
